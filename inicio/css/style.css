@@ -4,4 +4,32 @@ body{
 }
 h1{
     font-style: italic;
+    color: white;
+}
+h3{
+    font-style: italic;
+}
+
+
+
+.contenedor{
+
+padding: 12px;
+}
+
+.contenedor{
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+}
+h3{
+    color: white;
+}
+
+.main{
+margin: 12em;
+}
+hr{
+    color: rgb(245, 178, 9);
+
 }
