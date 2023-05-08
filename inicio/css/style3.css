@@ -1,9 +1,8 @@
 body {
-  background-image: url(./imagenes/fondo.jpeg);
-  background-size: cover;
+  background-image: url(./imagenes/fondo.2.jpeg);
 }
 .header {
-  margin: 3em;
+  margin: 2em;
   display: flex;
   align-items: end;
   justify-content: space-between;
@@ -21,26 +20,25 @@ body {
   border-style: solid;
 }
 
-h3 {
+.tres {
   font-style: oblique;
   font-size: medium;
   color: white;
   margin: 4em 2em 0em 2em;
 }
-
-h2 {
-  font-size: x-large;
-  font-style: italic;
-  color: white;
+#habilidades{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#habilidades{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
 }
 
-.texto {
-  color: white;
-  font-style: italic;
-}
-hr {
-  color: yellow;
-}
-.sobre {
-  margin: 7em 5em 7em 5em;
+.dos{
+    font-style: italic;
+    font-size: larger;
+    color: white;
 }
