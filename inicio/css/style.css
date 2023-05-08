@@ -1,0 +1,7 @@
+body{
+    background-image: url(./imagenes/fondo.jpeg);
+    background-size: cover;
+}
+h1{
+    font-style: italic;
+}
