@@ -26,11 +26,22 @@ body {
   color: white;
   margin: 4em 2em 0em 2em;
 }
-#habilidades{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+
+.programacion{
+  margin: 2em;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
+.ilustracion{
+  margin: 2em;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around
+}
+   
+
 #habilidades{
     display: flex;
     flex-direction: row;
@@ -41,4 +52,8 @@ body {
     font-style: italic;
     font-size: larger;
     color: white;
+}
+footer{
+  font-style: oblique;
+  color: white;
 }
