@@ -8,14 +8,10 @@ h1{
 }
 h3{
     font-style: italic;
+    
 }
 
 
-
-.contenedor{
-
-padding: 12px;
-}
 
 .contenedor{
 display: flex;
