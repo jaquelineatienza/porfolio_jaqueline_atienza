@@ -2,7 +2,7 @@ body {
   background-image: url(./imagenes/fondo.2.jpeg);
 }
 .header {
-  margin: 1em 0em 0em 0em;
+  margin: 10PX;
  
 }
 .contenedor {
@@ -17,14 +17,8 @@ body {
   border-style: solid;
 }
 
-.ilustracion{
-  padding:4%;
-}
-.lenguajes{
-  padding:4%;
-}
 .habilidad{
-  margin: 1em 2em  1em 2em;
+
 }
 .tres {
   font-style: oblique;
@@ -33,7 +27,7 @@ body {
   margin: 1em 0em 0em 1em;
 }
 
-.dos{
+.uno{
     font-style: italic;
     font-size: larger;
     color: white;

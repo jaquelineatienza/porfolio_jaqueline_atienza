@@ -47,9 +47,3 @@ hr{
 .sobre {
   margin: 8em 8em 1em 8em;
 }
-.globalconteiner{
-  display:flex;
-  flex-wrap: wrap;
-  min-width: 20%;
-  
-}
