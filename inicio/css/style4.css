@@ -27,8 +27,8 @@ body{
     color: white;
     margin: 1em 0em 0em 1em;
  }
-
- #card{
-  margin: 20vh 10px 10px 65vh;
+ #imagen{
+  height: 150px;
+  width: 140px;
  }
- 
+

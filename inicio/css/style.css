@@ -1,6 +1,7 @@
 body{
     background-image: url(./imagenes/fondo.jpeg);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 h1{
     font-style: italic;
@@ -15,16 +16,18 @@ h3{
 
 .contenedor{
 display: flex;
-align-items: flex-start;
+align-items:normal;
 justify-content: space-between;
 }
+
 h3{
     color: white;
 }
-
 .main{
-margin: 12em;
+    margin-top: 90px;
 }
+
+
 hr{
     color: rgb(245, 178, 9);
 
