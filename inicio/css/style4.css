@@ -26,23 +26,9 @@ body{
   
     color: white;
     margin: 1em 0em 0em 1em;
-  }
-  .firma{
-    margin: 7em 400px 5em 450px;
-    border: 2px;
-    border-style: solid;
-    border-color: darkgoldenrod;
-  }
+ }
+
+ #card{
+  margin: 20vh 10px 10px 65vh;
+ }
  
-  h2{
-    font-style: italic;
-    font-size: larger;
-    color: white;
-}
-img{ 
-  margin: 0em 1em 1em 2px;
-}
-.icons{
-  font-style: italic;
-  margin: 1em 0em 0em 1em;
-}
