@@ -29,7 +29,7 @@ h2 {
   font-size: x-large;
   font-style: italic;
   color: white;
-  text-align:center
+ 
 }
 
 hr{
@@ -40,10 +40,12 @@ hr{
 .texto {
   color: white;
   font-style: italic;
-  text-align: center; 
+  text-align:left; 
 }
 
 
 .sobre {
-  margin: 8em 8em 1em 8em;
+ padding-left: 100px;
+ padding-right:  100px;
+
 }
